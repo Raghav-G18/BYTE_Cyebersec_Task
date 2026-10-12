@@ -1,4 +1,4 @@
-# Task 1 — Cipher Challenge
+# Task 1 — Cryptography Challenge
 
 ## Objective
 Decode the given ciphertext to recover the flag in the expected `BYTE{...}` format.
