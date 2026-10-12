@@ -11,7 +11,7 @@ QkFJTntiQTczX1E4Ul9BcmhIQ19YNHlHY0R9
 ## Approach and Methodology
 
 ### Step 1: Base64 Decoding
-I started by checking whether the given string used a common encoding format. I used an online Base64 decoder website to decode the original string.
+I started by checking whether the given string used a common encoding format. I used an online Base64 decoder website (CyberChef) to decode the original string.
 
 The decoded output was:
 
@@ -36,9 +36,11 @@ BYTE{bY73_L8A_ChuKA_B4dLaV}
 ```
 
 ## Tools Used
-- Online Base64 decoder website
+- Online Base64 decoder website - CyberChef
 - Python 3
 - Beaufort cipher
+- ChatGPT for understanding decoding and ciphers
+- Gemini for help me identify the Beaufort cipher and key
 - Terminal for running and verifying the solution
 
 ## Key Learnings
