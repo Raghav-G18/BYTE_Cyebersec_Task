@@ -35,6 +35,11 @@ I used Pillow to reopen and fully decode the generated image. The verification c
 ```text
 final_image.png
 ```
+## Final Flag
+
+```text
+flag{g0t 1t in plAin sight}
+```
 
 The recovery process successfully generated a valid PNG file. The script reconstructs the image but does not independently extract or verify a hidden flag.
 
